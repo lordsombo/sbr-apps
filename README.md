@@ -11,6 +11,7 @@ Each `.sbr` is a single, ready-to-run binary — download one and install it wit
 | `calc` | A calculator with an expandable panel for extra functions |
 | `real` | A thermostat dial you can nudge up and down |
 | `ignite` | A control panel with keys that light up while held |
+| `tazama` | Browse and search videos, and open one to watch |
 
 ## Install
 
