@@ -1,4 +1,5 @@
 calc      A calculator with an expandable panel for extra functions
+canvas    Drawing and image editing
 real      A thermostat dial you can nudge up and down
 ignite    A control panel with keys that light up while held
 logbook   Notes with search and export
