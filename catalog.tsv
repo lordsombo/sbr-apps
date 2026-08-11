@@ -5,4 +5,4 @@ ignite	0.1	misc
 logbook	1.0.0	productivity	Notes with search and export
 navigator	1.0.0	network	Web browser with HTML, CSS, JavaScript, images, and multiple tabs
 real	0.1	misc	
-tazama	1.0	media	Browse and search videos, and open one to watch
+tazama	1.0.0	media	Local video and audio playback across multiple sources
