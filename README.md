@@ -17,6 +17,7 @@ Each `.sbr` is a single, ready-to-run binary — download one and install it wit
 | `navcomp` | Signed first-party Mapbox map with pan, zoom, and a bounded persistent tile cache |
 | `navigator` | Signed first-party browser with HTML, CSS, JavaScript, images, and tabs |
 | `tazama` | Signed first-party local video and audio player with multiple sources and persistent lists |
+| `uplink` | Signed first-party mail client with compose and durable offline cache |
 
 ## Install
 

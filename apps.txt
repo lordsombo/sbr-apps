@@ -7,3 +7,4 @@ logbook   Notes with search and export
 navcomp   Real map with pan, zoom, and persistent tile cache
 navigator Web browser with HTML, CSS, JavaScript, images, and multiple tabs
 tazama    Browse and search videos, and open one to watch
+uplink     Mail client with compose and durable offline cache
