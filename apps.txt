@@ -1,7 +1,9 @@
 calc      A calculator with an expandable panel for extra functions
 canvas    Drawing and image editing
+comms     Live chat with persistent conversation cache
 real      A thermostat dial you can nudge up and down
 ignite    A control panel with keys that light up while held
 logbook   Notes with search and export
+navcomp   Real map with pan, zoom, and persistent tile cache
 navigator Web browser with HTML, CSS, JavaScript, images, and multiple tabs
 tazama    Browse and search videos, and open one to watch
