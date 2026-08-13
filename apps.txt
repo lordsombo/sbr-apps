@@ -1,9 +1,6 @@
-calc      A calculator with an expandable panel for extra functions
 canvas    Drawing and image editing
 cipher    Hashing, text encoding, and authenticated sealing
 comms     Live chat with persistent conversation cache
-real      A thermostat dial you can nudge up and down
-ignite    A control panel with keys that light up while held
 logbook   Notes with search and export
 navcomp   Real map with pan, zoom, and persistent tile cache
 navigator Web browser with HTML, CSS, JavaScript, images, and multiple tabs
