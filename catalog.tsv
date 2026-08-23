@@ -4,7 +4,7 @@ cipher	1.0.1	utilities	Honest hashing, encoding, and authenticated text sealing
 comms	1.0.1	communication	Live chat client with persistent conversation cache
 logbook	1.0.1	productivity	Notes with search and export
 navcomp	1.0.1	maps	Real Mapbox map with pan, zoom, and persistent tile cache
-navigator	1.0.1	network	Holo web browser with HTML, CSS, JavaScript, images, and multiple tabs
+navigator	1.0.2	network	Holo web browser with HTML, CSS, JavaScript, images, and multiple tabs
 tazama	1.0.1	media	Local video and audio playback across multiple sources
 uplink	1.0.2	communication	Mail client with compose and durable offline cache
 vault	1.0.1	security	Encrypted password store with authenticated recovery export
