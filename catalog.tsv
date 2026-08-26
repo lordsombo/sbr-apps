@@ -4,7 +4,7 @@ cipher	cipher	cipher	cipher.sbr	1.0.2	utilities	Honest hashing, encoding, and au
 comms	comms	comms	comms.sbr	1.0.6	communication	Live chat client with persistent conversation cache	352247c822319b488058dfb618e8e6392b9db52418d38c9368fdea63f61789cb
 logbook	logbook	logbook	logbook.sbr	1.0.2	productivity	Notes with search and export	352247c822319b488058dfb618e8e6392b9db52418d38c9368fdea63f61789cb
 navcomp	navcomp	navcomp	navcomp.sbr	1.0.6	maps	Real Mapbox map with pan, zoom, and persistent tile cache	352247c822319b488058dfb618e8e6392b9db52418d38c9368fdea63f61789cb
-navigator	navigator	navigator	navigator.sbr	1.0.22	network	Holo web browser with HTML, CSS, JavaScript, images, and multiple tabs	352247c822319b488058dfb618e8e6392b9db52418d38c9368fdea63f61789cb
+navigator	navigator	navigator	navigator.sbr	1.0.23	network	Holo web browser with HTML, CSS, JavaScript, images, and multiple tabs	352247c822319b488058dfb618e8e6392b9db52418d38c9368fdea63f61789cb
 tazama	tazama	tazama	tazama.sbr	1.0.7	media	Local video and audio playback across multiple sources	352247c822319b488058dfb618e8e6392b9db52418d38c9368fdea63f61789cb
 uplink	uplink	uplink	uplink.sbr	1.0.7	communication	Mail client with compose and durable offline cache	352247c822319b488058dfb618e8e6392b9db52418d38c9368fdea63f61789cb
 vault	vault	vault	vault.sbr	1.0.2	security	Encrypted password store with authenticated recovery export	352247c822319b488058dfb618e8e6392b9db52418d38c9368fdea63f61789cb
